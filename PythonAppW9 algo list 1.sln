@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAppW9 algo list 1", "PythonAppW9 algo list 1\PythonAppW9 algo list 1.pyproj", "{D2624F60-CC33-4168-9B9F-406D6EC429DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2624F60-CC33-4168-9B9F-406D6EC429DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2624F60-CC33-4168-9B9F-406D6EC429DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B149B1F7-43AE-4F8F-8193-C819FCA9C289}
+	EndGlobalSection
+EndGlobal
